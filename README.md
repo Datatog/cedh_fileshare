@@ -2,7 +2,7 @@
 
 ## match_up_data_raw.csv
 
-Data scraped from the individual bracket pages from topdeck.gg. Still messy. Errors include but are not limited to:
+Data scraped from the individual bracket pages from topdeck.gg. Knwon errors/problems include but are not limited to:
 - pods with missing players
 - pods with missing commander
 - pods where all 4 players lost
